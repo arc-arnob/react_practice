@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="relative flex flex-col mx-auto w-fit h-fit bg-[#282D35] rounded-md mt-8">
+    <div className="relative flex flex-col mx-auto w-fit h-fit bg-[#282D35] rounded-md mt-8 overflow-hidden">
       {/* Header */}
       <Header />
       {/* Body */}
